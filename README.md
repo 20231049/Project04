@@ -5,3 +5,6 @@ Project 04 version1 completed
 “2nd Team Member: <김태준>”
 “2nd Team Member: <20231049>”
 Project 04 version2 completed
+3rd Team Member: <김경현>
+3rd Team Member: <20251033>
+Project 04 version3 completed
